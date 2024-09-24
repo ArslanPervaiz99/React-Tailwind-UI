@@ -28,7 +28,7 @@ const Hero = () => {
       <div className="h-5/6 flex-center w-full flex-col">
         <p id="hero" className="hero-title">
           {" "}
-          Iphone 15 Pro
+          Iphone 16 Pro
         </p>
         <div className="md:w-10/12 w-9/12">
           <video
@@ -44,7 +44,7 @@ const Hero = () => {
       </div>
       <div
         id="cta"
-        className="flex flex-col opacity-0 translate-y-20 items-center pt-14"
+        className="flex flex-col opacity-0 translate-y-20 items-center pt-10"
       >
         <a href="/highlights" className="btn ">
           Buy

@@ -15,7 +15,7 @@ export const hightlightsSlides = [
   {
     id: 1,
     textLists: [
-      "Enter A17 Pro.",
+      "Enter A18 Pro.",
       "Game‑changing chip.",
       "Groundbreaking performance.",
     ],
@@ -31,7 +31,7 @@ export const hightlightsSlides = [
   {
     id: 3,
     textLists: [
-      "iPhone 15 Pro Max has the",
+      "iPhone 16 Pro Max has the",
       "longest optical zoom in",
       "iPhone ever. Far out.",
     ],
