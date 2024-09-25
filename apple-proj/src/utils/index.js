@@ -21,9 +21,11 @@ import play from "/assets/images/play.svg";
 import pause from "/assets/images/pause.svg";
 
 import yellow from "/assets/images/yellow.jpg";
-import blue from "/assets/images/blue.jpg";
-import white from "/assets/images/white.jpg";
-import black from "/assets/images/black.jpg";
+import green from "/assets/images/green.jpeg";
+import pink from "/assets/images/pink.jpg";
+import blue from "/assets/images/blue.webp";
+import white from "/assets/images/white.jpeg";
+import black from "/assets/images/black.webp";
 import explore1 from "/assets/images/explore1.jpg";
 import explore2 from "/assets/images/explore2.jpg";
 import chip from "/assets/images/chip.jpeg";
@@ -48,6 +50,8 @@ export const playImg = play;
 export const pauseImg = pause;
 
 export const yellowImg = yellow;
+export const greenImg = green;
+export const pinkImg = pink;
 export const blueImg = blue;
 export const whiteImg = white;
 export const blackImg = black;

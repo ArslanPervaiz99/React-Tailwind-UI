@@ -2,7 +2,7 @@ import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 import ModelView from "./ModelView";
 import { useEffect, useRef, useState } from "react";
-import { yellowImg } from "../utils";
+import { pinkImg, yellowImg } from "../utils";
 import * as THREE from "three";
 import { Canvas } from "@react-three/fiber";
 import { View } from "@react-three/drei";
@@ -12,9 +12,10 @@ import { animateWithGsapTimeline } from "../utils/Animations";
 const Model = () => {
   const [size, setSize] = useState("small");
   const [model, setModel] = useState({
-    title: "Iphone 16 Pro Natural Titanium",
-    color: ["#8F8A81", "#ffe7b9", "#6f6c64"],
-    img: yellowImg,
+    title: "Iphone 16 Pro Pink",
+    color: ["#CB7CAC", "#c97aaa", "#6f6c64"],
+    // color: ["#8F8A81", "#ffe7b9", "#6f6c64"],
+    img: pinkImg,
   });
 
   // camera controls for the model view
