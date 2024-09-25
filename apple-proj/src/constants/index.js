@@ -21,7 +21,7 @@ export const hightlightsSlides = [
       "Groundbreaking performance.",
     ],
     video: highlightFirstVideo,
-    videoDuration: 4,
+    videoDuration: 7,
   },
   {
     id: 2,
