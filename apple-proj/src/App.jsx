@@ -14,6 +14,7 @@ const App = () => {
       <Highlights />
       <Model />
       <Features />
+      <Chip />
       <Footer />
     </main>
   );

@@ -27,7 +27,7 @@ import white from "/assets/images/white.jpeg";
 import black from "/assets/images/black.webp";
 import explore1 from "/assets/images/explore1.jpg";
 import explore2 from "/assets/images/explore2.jpg";
-import chip from "/assets/images/chip.jpeg";
+import chip from "/assets/images/chip.png";
 import frame from "/assets/images/frame.png";
 
 export const heroVideo = hmv;
