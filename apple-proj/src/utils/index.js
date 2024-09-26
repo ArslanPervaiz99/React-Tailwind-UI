@@ -20,7 +20,6 @@ import replay from "/assets/images/replay.svg";
 import play from "/assets/images/play.svg";
 import pause from "/assets/images/pause.svg";
 
-import yellow from "/assets/images/yellow.jpg";
 import green from "/assets/images/green.jpeg";
 import pink from "/assets/images/pink.jpg";
 import blue from "/assets/images/blue.webp";
@@ -49,7 +48,6 @@ export const replayImg = replay;
 export const playImg = play;
 export const pauseImg = pause;
 
-export const yellowImg = yellow;
 export const greenImg = green;
 export const pinkImg = pink;
 export const blueImg = blue;
