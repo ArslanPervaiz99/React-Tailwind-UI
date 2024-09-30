@@ -1,8 +1,9 @@
 create a project using this link and perform all the task mentioned here
 https://tailwindcss.com/docs/guides/vite
 
-then run the command 
-npm install react-router-dom
+then run the command </br>
+npm install react-router-dom </br>
+npm install scroll-lock
 
 
 
