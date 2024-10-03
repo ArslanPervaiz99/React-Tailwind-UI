@@ -2,9 +2,9 @@ import ButtonSvg from "../assets/svg/ButtonSvg";
 const Button = ({ children, href, mobMenu, className, px, white }) => {
   const classes = `button relative inline-flex items-center justify-center h-11 transition-colors hover:text-color-1 ${
     px || "px-7"
-  } ${white ? "text-n-8" : "text-n-1"} ${className || ""} `;
+  }   ${white ? "text-n-8" : "text-n-1"} ${className || ""} `;
 
-  const spanClas = "relative";
+  const spanClas = "relative z-10";
 
   const renderBtn = () => (
     <button className={classes} onClick={mobMenu}>
