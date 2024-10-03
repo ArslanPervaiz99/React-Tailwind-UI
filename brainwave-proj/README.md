@@ -3,7 +3,8 @@ https://tailwindcss.com/docs/guides/vite
 
 then run the command </br>
 npm install react-router-dom </br>
-npm install scroll-lock
+npm install scroll-lock </br>
+npm install react-just-parallax (used for animation that is done on website the tinny cirlce in hero section moves on cursor movement)
 
 
 
